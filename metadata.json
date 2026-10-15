@@ -1,0 +1,6 @@
+{
+  "name": "si-RT/RW",
+  "description": "Aplikasi Sistem Informasi RT/RW Desa Jambudipa Kec. Warungkondang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
